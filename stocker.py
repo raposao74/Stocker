@@ -2,7 +2,7 @@
 # fbprophet for additive models, #pytrends for Google trend data
 import pandas as pd
 import numpy as np
-import fbprophet
+import prophet
 
 # matplotlib pyplot for plotting
 import matplotlib.pyplot as plt
